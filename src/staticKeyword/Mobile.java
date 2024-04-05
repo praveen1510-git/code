@@ -13,6 +13,6 @@ public class Mobile implements Electronics{
 			 return "display is not working";
 		 }
 		}
-	
+	public String iojfoiwejfowiefjiwefwefwejfhfkjwenfwefkjwenfkwenjfoiwejfwejoiw;
 
 }
